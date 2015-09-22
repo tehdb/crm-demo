@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html ng-app="MovingImage24">
+<head>
+	<title>CRM demo</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="/bootstrap/dist/css/bootstrap.css">
+	<link rel="stylesheet" type="text/css" href="/bootstrap/dist/css/bootstrap-theme.css">
+	<link rel="stylesheet" type="text/css" href="/angular-bootstrap/ui-bootstrap-csp.css">
+	<link rel="stylesheet" type="text/css" href="/styles.css">
+</head>
+<body ng-controller="MainController">
+	<div class="container">
+		<div class="page-header">
+			<h1>CRM demo</h1>
+		</div>
+	</div>
+	<div class="container">
+
+		<div class="options-control-bar">
+			<input type="text" ng-model="vm.search" class="search">
+
+			<button
+				class="btn btn-default create-user-btn"
+				ng-click="showCreateUserModal()">
+				<span class="glyphicon glyphicon-plus-sign"></span> create user
+			</button>
+		</div>
+
+		<div class="user-list">
+			<div class="user-list-item" ng-repeat="user in vm.users | filter:vm.search">
+				<span class="field" ng-bind="user.firstname"></span>
+				<span class="field" ng-bind="user.lastname"></span>
+				<span class="field" ng-bind="user.email"></span>
+				<span class="field" ng-bind="user.tel"></span>
+				<span class="field" ng-bind="user.company"></span>
+
+				<button type="button" class="btn btn-default delete-user-btn" ng-click="showDeleteUserCofirmModal(user)">
+					<span class="glyphicon glyphicon-trash"></span>
+				</button>
+
+				<button type="button" class="btn btn-default delete-user-btn" ng-click="showUpdateUserModal(user)">
+					<span class="glyphicon glyphicon-pencil"></span>
+				</button>
+
+
+			</div>
+		</div>
+
+
+
+	</div>
+
+	<script type="text/javascript" src="/lodash/lodash.js"></script>
+	<script type="text/javascript" src="/jquery/dist/jquery.js"></script>
+	<script type="text/javascript" src="/angular/angular.js"></script>
+	<script type="text/javascript" src="/restangular/dist/restangular.js"></script>
+	<script type="text/javascript" src="/angular-bootstrap/ui-bootstrap.js"></script>
+	<script type="text/javascript" src="/angular-bootstrap/ui-bootstrap-tpls.js"></script>
+	<script type="text/javascript" src="/client.js"></script>
+	<script type="text/javascript" src="/services/api.srvc.js"></script>
+	<script type="text/javascript" src="/controllers/CreateUserModal.ctrl.js"></script>
+	<script type="text/javascript" src="/controllers/DeleteUserConfirmModal.ctrl.js"></script>
+</body>
+</html>

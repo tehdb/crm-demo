@@ -1,0 +1,60 @@
+<div class="create-user-modal">
+
+	<div class="modal-header">
+		<h3 class="modal-title">create user</h3>
+	</div>
+	<div class="modal-body">
+
+		<form name="vm.form" novalidate>
+
+			<input
+				class="form-control"
+				placeholder="Firstname"
+				type="text"
+				ng-model="vm.user.firstname"
+				name="firstname"
+				required
+			>
+
+			<input
+				class="form-control"
+				placeholder="Lastname"
+				type="text"
+				ng-model="vm.user.lastname"
+				required
+			>
+
+			<input
+				class="form-control"
+				placeholder="E-Mail"
+				type="email"
+				ng-model="vm.user.email"
+				required
+			>
+
+			<input
+				class="form-control"
+				placeholder="Fon"
+				type="text"
+				ng-model="vm.user.tel"
+			>
+
+			<input
+				class="form-control"
+				placeholder="Company"
+				type="text"
+				ng-model="vm.user.company"
+			>
+
+			<div class="modal-control">
+				<button class="btn btn-warning" type="button" ng-click="cancel()">Cancel</button>
+				<button
+					class="btn btn-primary"
+					type="button"
+					ng-click="save()"
+					ng-disabled="vm.form.$invalid"
+				>Save</button>
+			</div>
+		</form>
+	</div>
+</div>

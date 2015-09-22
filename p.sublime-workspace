@@ -1,0 +1,1814 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"selecte",
+				"selectedSize"
+			],
+			[
+				"space",
+				"space-between"
+			],
+			[
+				"ca",
+				"capabilities	(prods-view.ctrl.coffee)"
+			],
+			[
+				"Au",
+				"AuthSrvc"
+			],
+			[
+				"parent",
+				"parentSelector"
+			],
+			[
+				"removeConf",
+				"removeConfirmShow"
+			],
+			[
+				"border",
+				"border-box"
+			],
+			[
+				"preview",
+				"preview_info_layer	(en-GB.json)"
+			],
+			[
+				"previe",
+				"previewItem"
+			],
+			[
+				"isPrev",
+				"isPreviewInfoActive	(uplect.drt.coffee)"
+			],
+			[
+				"isPre",
+				"isPreviewInfoActive"
+			],
+			[
+				"dis",
+				"disableScroll"
+			],
+			[
+				"ena",
+				"enableScroll"
+			],
+			[
+				"preve",
+				"preventDefault"
+			],
+			[
+				"scroll",
+				"scrollTopPrev"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"white",
+				"white-space"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"contain",
+				"container	(edit.tpl.jade)"
+			],
+			[
+				"conta",
+				"container	(edit.tpl.jade)"
+			],
+			[
+				"field",
+				"fields"
+			],
+			[
+				"fai",
+				"failure"
+			],
+			[
+				"evet",
+				"events"
+			],
+			[
+				"succe",
+				"success"
+			],
+			[
+				"fail",
+				"failure"
+			],
+			[
+				"back",
+				"backupImg"
+			],
+			[
+				"aria",
+				"aria-label"
+			],
+			[
+				"base",
+				"bases"
+			],
+			[
+				"layout",
+				"layout=\"row"
+			],
+			[
+				"imgWra",
+				"imgWrapperH"
+			],
+			[
+				"imgWr",
+				"imgWrapperH"
+			],
+			[
+				"imgW",
+				"imgWrapperW"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"thumbs",
+				"thumbs"
+			],
+			[
+				"thumb",
+				"thumbpath"
+			],
+			[
+				"cre",
+				"createImage"
+			],
+			[
+				"desc",
+				"description"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"keyword",
+				"keywords"
+			],
+			[
+				"lenght",
+				"length-1	(upload-modal.ctrl.ls)"
+			],
+			[
+				"keyw",
+				"keywords	(upload-modal.ctrl.ls)"
+			],
+			[
+				"sea",
+				"search	(upload-modal.ctrl.ls)"
+			],
+			[
+				"des",
+				"des	Describe"
+			],
+			[
+				"exp",
+				"expect	expect"
+			],
+			[
+				"cont",
+				"expect.to.contain"
+			],
+			[
+				"proper",
+				"properties"
+			],
+			[
+				"marig",
+				"margin-right"
+			],
+			[
+				"trans",
+				"translateX	(cats-view.sass)"
+			],
+			[
+				"transl",
+				"translate	(cat-edit.tpl.jade)"
+			],
+			[
+				"cate",
+				"category_exist_error	(en-GB.json)"
+			],
+			[
+				"category",
+				"category_name	(en-GB.json)"
+			],
+			[
+				"remove",
+				"remove_cats"
+			],
+			[
+				"lyo",
+				"layout=\"row"
+			],
+			[
+				"ignore",
+				"ignoreValue"
+			],
+			[
+				"update",
+				"update_cats	(cats.ctrl.ls)"
+			],
+			[
+				"inser",
+				"insert_cats	(cats.ctrl.ls)"
+			],
+			[
+				"upda",
+				"update_cats"
+			],
+			[
+				"build",
+				"buildClient"
+			],
+			[
+				"findById",
+				"findByIdAndRemove"
+			],
+			[
+				"mongo",
+				"mongoose"
+			],
+			[
+				"ha",
+				"should.have.length"
+			],
+			[
+				"instan",
+				"expect.to.be.an.instanceof"
+			],
+			[
+				"prod",
+				"productCount"
+			],
+			[
+				"even",
+				"eventEmitter"
+			],
+			[
+				"ser",
+				"search_query"
+			],
+			[
+				"prepare",
+				"prepare_docs"
+			],
+			[
+				"medi",
+				"mediaHelper"
+			],
+			[
+				"attribut",
+				"attributeIds"
+			],
+			[
+				"attr",
+				"attributeIdsˆ"
+			],
+			[
+				"vali",
+				"validators"
+			],
+			[
+				"Attri",
+				"AttributeSchema"
+			],
+			[
+				"ar",
+				"arguments"
+			],
+			[
+				"dep",
+				"depth_unit"
+			],
+			[
+				"hei",
+				"height_unit"
+			],
+			[
+				"wid",
+				"width_unit"
+			],
+			[
+				"Produc",
+				"ProductModel"
+			],
+			[
+				"Prod",
+				"Product"
+			],
+			[
+				"up",
+				"updatedProduct"
+			],
+			[
+				"col-sm",
+				"col-sm-"
+			],
+			[
+				"clie",
+				"client-build-scripts"
+			],
+			[
+				"client-",
+				"client-build-styles"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"moduel",
+				"modulePath"
+			],
+			[
+				"modal-",
+				"modal-title"
+			],
+			[
+				"selec",
+				"selectMulti"
+			],
+			[
+				"profi",
+				"profileService"
+			],
+			[
+				"dark",
+				"dark-grey"
+			],
+			[
+				"promp",
+				"promptMode"
+			],
+			[
+				"_sche",
+				"_schemaName"
+			],
+			[
+				"multise",
+				"multiselectOptions"
+			],
+			[
+				"bower",
+				"bower_components"
+			],
+			[
+				"identity",
+				"identityFctr"
+			],
+			[
+				"logi",
+				"loginData"
+			],
+			[
+				"status",
+				"statusCode"
+			],
+			[
+				"valida",
+				"validatorStub"
+			],
+			[
+				"err-msg",
+				"err-msg-color"
+			],
+			[
+				"error-msg-",
+				"error-msg-background"
+			],
+			[
+				"erro",
+				"error-msg-color"
+			],
+			[
+				"regis",
+				"registerTask"
+			],
+			[
+				"require",
+				"require-all"
+			],
+			[
+				"tran",
+				"translateProvider"
+			],
+			[
+				"regi",
+				"registered"
+			],
+			[
+				"langu",
+				"language"
+			],
+			[
+				"do",
+				"dropdown-menu"
+			],
+			[
+				"drop",
+				"dropdown-toggle"
+			],
+			[
+				"compl",
+				"completed"
+			],
+			[
+				"expe",
+				"expect"
+			],
+			[
+				"_initPop",
+				"_initPopup"
+			],
+			[
+				"e",
+				"expect	expect"
+			],
+			[
+				"exerci",
+				"exercises"
+			],
+			[
+				"fil",
+				"filteredExercises"
+			],
+			[
+				"exer",
+				"exercises"
+			],
+			[
+				"mult",
+				"multiSelect"
+			],
+			[
+				"opt",
+				"optionTpl"
+			],
+			[
+				"pro",
+				"progress"
+			],
+			[
+				"n",
+				"nth-child(  (pseudo-class)"
+			],
+			[
+				"muscleGr",
+				"muscleGroups"
+			],
+			[
+				"con",
+				"contains"
+			],
+			[
+				"sele",
+				"selectedIds"
+			],
+			[
+				"search",
+				"searchText"
+			],
+			[
+				"muscle",
+				"musclesService"
+			],
+			[
+				"group",
+				"groupId"
+			],
+			[
+				"muscles",
+				"musclesService"
+			],
+			[
+				"msuc",
+				"muscleGroups"
+			],
+			[
+				"mon",
+				"mongoose"
+			],
+			[
+				"temp",
+				"tempExerciseArray"
+			],
+			[
+				"tem",
+				"tempExerciseArray"
+			],
+			[
+				"musc",
+				"muscleArraySchema"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"search",
+				"File: Search Files"
+			],
+			[
+				"sort line",
+				"Sort Lines"
+			],
+			[
+				"conv",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"conver tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"set sy java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"goto",
+				"Goto Documentation"
+			],
+			[
+				"list packa",
+				"Package Control: List Packages"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"disap",
+				"Package Control: Disable Package"
+			],
+			[
+				"sort li",
+				"Sort Lines"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"defaul",
+				"Preferences: Settings - Default"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"sortl",
+				"Sort Lines"
+			],
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"set syn json",
+				"Set Syntax: JSON"
+			],
+			[
+				"settings",
+				"Preferences: Settings - Default"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"list ",
+				"Package Control: List Packages"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"set css",
+				"Set Syntax: CSS"
+			],
+			[
+				"set javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"toggle tab",
+				"View: Toggle Tabs"
+			],
+			[
+				"toggle ta",
+				"View: Toggle Tabs"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"update",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"user ",
+				"Preferences: Settings - User"
+			],
+			[
+				"set syn jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"sort l",
+				"Sort Lines"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"compare",
+				"GitGutter: Compare Against Branch"
+			],
+			[
+				"git compare",
+				"GitGutter: Compare Against Branch"
+			],
+			[
+				"git compa",
+				"GitGutter: Compare Against Branch"
+			],
+			[
+				"git diff",
+				"Git: Diff Current File"
+			],
+			[
+				"toggleta",
+				"View: Toggle Tabs"
+			],
+			[
+				"defau",
+				"Preferences: Settings - Default"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"lista p",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				"Bookmarks: Toggle"
+			],
+			[
+				"set sy coff",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"upgrad",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"upgrat",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"use",
+				"Preferences: Settings - User"
+			],
+			[
+				"set sy jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"format",
+				"Format: Javascript"
+			],
+			[
+				"path",
+				"File: Copy Path"
+			],
+			[
+				"set sy html",
+				"Set Syntax: HTML"
+			],
+			[
+				"settin",
+				"Preferences: Settings - User"
+			],
+			[
+				"setting use",
+				"Preferences: Settings - User"
+			],
+			[
+				"package",
+				"Package Control: Disable Package"
+			],
+			[
+				"todo",
+				"TodoReview: Project Files"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"package remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"packages",
+				"Package Control: List Packages"
+			],
+			[
+				"set syn javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"disable ",
+				"Package Control: Disable Package"
+			],
+			[
+				"enable packa",
+				"Package Control: Enable Package"
+			],
+			[
+				"package disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"set syn coff",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"set s co",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"set syn html",
+				"Set Syntax: HTML"
+			],
+			[
+				"set sy sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"insall",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"instll",
+				"Package Control: Install Package"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"package control",
+				"Package Control: Remove Package"
+			],
+			[
+				"set sy json",
+				"Set Syntax: JSON"
+			],
+			[
+				"set sy jso",
+				"Set Syntax: SJSON"
+			],
+			[
+				"set sys js",
+				"Set Syntax: SJSON"
+			],
+			[
+				"set s jso",
+				"Set Syntax: SJSON"
+			],
+			[
+				"set sy mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"set syn mark",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"disco",
+				"Package Control: Discover Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 488.0
+	},
+	"console":
+	{
+		"height": 284.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/tehdb/Projects/MovingImage24"
+	],
+	"file_history":
+	[
+		"/Users/tehdb/Projects/SCANEM/server/utils/request.coffee",
+		"/Users/tehdb/Projects/SCANEM/client/membership/login-bar.drt.coffee",
+		"/Users/tehdb/Projects/SCANEM/client/store/prods/prods-view.tpl.jade",
+		"/Users/tehdb/Projects/SCANEM/client/store/prods/prods-view.sass",
+		"/Users/tehdb/Projects/SCANEM/client/common/services/blur.srvc.coffee",
+		"/Users/tehdb/Projects/SCANEM/server/media/image.mdl.coffee",
+		"/Users/tehdb/Projects/SCANEM/client/store/prods/prod-view.sass",
+		"/Users/tehdb/Projects/SCANEM/server/store/product.mdl.coffee",
+		"/Users/tehdb/Projects/SCANEM/client/store/store.srvc.coffee",
+		"/Users/tehdb/Projects/SCANEM/client/membership/login-bar.srv.coffee",
+		"/Users/tehdb/Projects/SCANEM/client/store/prods/prod-view.ctrl.coffee",
+		"/Users/tehdb/Projects/SCANEM/server/store/category.mdl.coffee",
+		"/Users/tehdb/Projects/SCANEM/client/app-router.coffee",
+		"/Users/tehdb/Projects/SCANEM/client/layout/icon.drt.coffee",
+		"/Users/tehdb/Projects/SCANEM/README.md",
+		"/Users/tehdb/Projects/SCANEM/client/store/prods/prods-view.ctrl.coffee",
+		"/Users/tehdb/Projects/SCANEM/server/i18n/langs/client/en-GB.json",
+		"/Users/tehdb/Projects/SCANEM/client/store/prods/prod-edit.tpl.jade",
+		"/Users/tehdb/Projects/SCANEM/client/store/cats/view-multiple.ctrl.coffee",
+		"/Users/tehdb/Projects/SCANEM/client/store/cats/view-multiple.tpl.jade",
+		"/Users/tehdb/Projects/SCANEM/client/store/prods/cats-list.tpl.jade",
+		"/Users/tehdb/Projects/SCANEM/client/store/cats/cat-view.tpl.jade",
+		"/Users/tehdb/Projects/SCANEM/client/common/services/api.srvc.coffee",
+		"/Users/tehdb/Projects/SCANEM/client/store/cats/cat-view.ctrl.coffee",
+		"/Users/tehdb/Projects/SCANEM/client/store/prods/cats-uniselect.sass.map",
+		"/Users/tehdb/Projects/SCANEM/client/store/prods/prod-edit.ctrl.coffee",
+		"/Users/tehdb/Projects/SCANEM/client/app.coffee",
+		"/Users/tehdb/Projects/SCANEM/client/membership/auth.srvc.coffee",
+		"/Users/tehdb/Projects/SCANEM/gulp_tasks/build.coffee",
+		"/Users/tehdb/Projects/SCANEM/client/layout/header.ctrl.coffee",
+		"/Users/tehdb/Projects/SCANEM/client/layout/header.inc.jade",
+		"/Users/tehdb/Projects/SCANEM/client/layout/header.tpl.jade",
+		"/Users/tehdb/Projects/SCANEM/client/membership/login-bar.inc.jade",
+		"/Users/tehdb/Projects/SCANEM/client/layout/header.drt.spec.coffee",
+		"/Users/tehdb/Projects/SCANEM/client/common/styles/forms.sass",
+		"/Users/tehdb/Projects/SCANEM/scanem.sublime-project",
+		"/Users/tehdb/Projects/SCANEM/client/common/styles/colors.sass",
+		"/Users/tehdb/Projects/SCANEM/bower.json",
+		"/Users/tehdb/Projects/SCANEM/client/membership/login-bar.sass",
+		"/Users/tehdb/Projects/SCANEM/client/common/directives/scrolltop.drt.coffee",
+		"/Users/tehdb/Projects/SCANEM/client/common/directives/confirm.drt.coffee",
+		"/Users/tehdb/Projects/SCANEM/client/common/directives/confirm.sass",
+		"/Users/tehdb/Projects/SCANEM/server/store/attrs/price.schm.coffee",
+		"/Users/tehdb/Projects/SCANEM/client/media/media-view.tpl.jade",
+		"/Users/tehdb/Projects/SCANEM/client/common/filters/currency.fltr.coffee",
+		"/Users/tehdb/Projects/SCANEM/client/store/prods/prod-edit.sass",
+		"/Users/tehdb/Projects/SCANEM/client/common/directives/unique.drt.coffee",
+		"/Users/tehdb/Projects/SCANEM/server/media/images.ctrl.coffee",
+		"/Users/tehdb/Projects/SCANEM/server/store/attrs/index.coffee",
+		"/Users/tehdb/Projects/SCANEM/server/errors/index.coffee",
+		"/Users/tehdb/Projects/SCANEM/server/store/store.rt.coffee",
+		"/Users/tehdb/Projects/SCANEM/server/store/product.mdl.spec.coffee",
+		"/Users/tehdb/Projects/SCANEM/server/store/attrs/size.schm.coffee",
+		"/Users/tehdb/Projects/SCANEM/client/common/directives/keywords.tpl.jade",
+		"/Users/tehdb/Projects/SCANEM/server/errors/HttpError.coffee",
+		"/Users/tehdb/Projects/SCANEM/server/store/attrs/color.schm.coffee",
+		"/Users/tehdb/Projects/SCANEM/package.json",
+		"/Users/tehdb/Projects/SCANEM/client/common/animations/rise-up.ani.coffee",
+		"/Users/tehdb/Projects/SCANEM/client/common/directives/keywords.drt.coffee",
+		"/Users/tehdb/Projects/SCANEM/client/store/cats/edit-modal.tpl.jade",
+		"/Users/tehdb/Projects/SCANEM/client/common/directives/confirm.tpl.jade",
+		"/Users/tehdb/Projects/SCANEM/client/common/directives/dragndrop-sort.drt.coffee",
+		"/Users/tehdb/Projects/SCANEM/client/media/preview-modal.tpl.jade",
+		"/Users/tehdb/Projects/SCANEM/client/common/animations/fade.ani.coffee",
+		"/Users/tehdb/Projects/SCANEM/client/home/home.tpl.jade",
+		"/Users/tehdb/Projects/SCANEM/client/media/uplect.tpl.jade",
+		"/Users/tehdb/Projects/SCANEM/client/common/styles/dialogs.sass",
+		"/Users/tehdb/Projects/SCANEM/client/media/uplect.sass",
+		"/Users/tehdb/Projects/SCANEM/client/home/home.ctrl.coffee",
+		"/Users/tehdb/Projects/SCANEM/client/media/uplect.drt.coffee",
+		"/Users/tehdb/Projects/SCANEM/client/common/directives/passwd.drt.coffee",
+		"/Users/tehdb/Projects/SCANEM/client/media/preview-modal.sass",
+		"/Users/tehdb/Projects/SCANEM/client/media/preview-modal.ctrl.coffee",
+		"/Users/tehdb/Projects/SCANEM/client/common/styles/mixins.sass",
+		"/Users/tehdb/Projects/SCANEM/bower_components/html2canvas/dist/html2canvas.js",
+		"/Users/tehdb/Projects/SCANEM/client/media/scrolltop.drt.coffee",
+		"/Users/tehdb/Projects/SCANEM/client/common/directives/uniselect.drt.coffee",
+		"/Users/tehdb/Projects/SCANEM/client/common/directives/uniselect.sass",
+		"/Users/tehdb/Projects/SCANEM/server/media/media.io.coffee",
+		"/Users/tehdb/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/tehdb/Projects/SCANEM/client/common/directives/focus.drt.coffee",
+		"/Users/tehdb/Projects/SCANEM/client/common/styles/content.sass",
+		"/Users/tehdb/Projects/SCANEM/client/store/prods/edit.tpl.jade",
+		"/Users/tehdb/Projects/SCANEM/client/common/directives/uniselect.tpl.jade",
+		"/Users/tehdb/Projects/SCANEM/client/media/uploader.ctrl.coffee",
+		"/Users/tehdb/Projects/SCANEM/client/media/media-view.ctrl.coffee",
+		"/Users/tehdb/Projects/SCANEM/server/media/media.rt.coffee",
+		"/Users/tehdb/Projects/SCANEM/client/media/uploader.tpl.jade",
+		"/Users/tehdb/Projects/SCANEM/server/membership/membership.rt.coffee",
+		"/Users/tehdb/Projects/SCANEM/server/utils/config.coffee",
+		"/Users/tehdb/Projects/SCANEM/server/utils/response.coffee",
+		"/Users/tehdb/Projects/SCANEM/gulpfile.coffee",
+		"/Users/tehdb/Projects/SCANEM/client/media/uploader.sass",
+		"/Users/tehdb/Projects/SCANEM/bower_components/async/component.json",
+		"/Users/tehdb/Projects/SCANEM/bower_components/async/.bower.json",
+		"/Users/tehdb/Projects/SCANEM/server/search/keyword.mdl.coffee",
+		"/Users/tehdb/Projects/SCANEM/client/media/media-view.sass",
+		"/Users/tehdb/Projects/SCANEM/client/styles.sass",
+		"/Users/tehdb/Projects/SCANEM/server/membership/auth.coffee",
+		"/Users/tehdb/Projects/SCANEM/server/membership/membership.io.coffee",
+		"/Users/tehdb/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/tehdb/Projects/SCANEM/server/membership/auth.spec.coffee",
+		"/Users/tehdb/Projects/SCANEM/client/store/cats/cats-view.ctrl.coffee",
+		"/Users/tehdb/Projects/SCANEM/client/membership/logup/signup.ctrl.coffee",
+		"/Users/tehdb/Projects/SCANEM/client/membership/logup/login.ctrl.coffee",
+		"/Users/tehdb/Projects/SCANEM/client/membership/auth.srv.coffee",
+		"/Users/tehdb/Projects/SCANEM/server/membership/user.ctrl.coffee",
+		"/Users/tehdb/Projects/SCANEM/server/i18n/langs/mailer/en-GB.json",
+		"/Users/tehdb/Projects/SCANEM/client/media/media.service.coffee",
+		"/Users/tehdb/Projects/SCANEM/karma.conf.coffee",
+		"/Users/tehdb/Projects/SCANEM/client/membership/logup/signup.tpl.jade",
+		"/Users/tehdb/Projects/SCANEM/client/membership/logup/logup.tpl.jade",
+		"/Applications/WebStorm.app/Contents/Info.plist",
+		"/Users/tehdb/Projects/SCANEM/client/media/preview-modal.ctrl.ls",
+		"/Users/tehdb/Projects/SCANEM/client/layout/icon.drt.ls",
+		"/Users/tehdb/Projects/SCANEM/client/layout/icon.sass",
+		"/Users/tehdb/Projects/SCANEM/client/membership/auth.srv.ls",
+		"/Users/tehdb/Projects/SCANEM/client/media/media-view.ctrl.ls",
+		"/Users/tehdb/Projects/SCANEM/client/media/upload-modal.tpl.jade",
+		"/Users/tehdb/Projects/SCANEM/client/media/upload-modal.sass",
+		"/Users/tehdb/Projects/SCANEM/client/media/upload-modal.ctrl.ls",
+		"/Users/tehdb/Projects/SCANEM/tmp/dev/uploads/55b50e62985bc8dc405d67f3/300x300.jpg",
+		"/Users/tehdb/Projects/SCANEM/client/media/media.view.sass",
+		"/Users/tehdb/Projects/SCANEM/server/media/images.api.spec.coffee",
+		"/Users/tehdb/Projects/SCANEM/logs/dev/scanem.log",
+		"/Users/tehdb/Projects/SCANEM/tmp/dev/uploads/55b50e62985bc8dc405d67f5/origin.jpg",
+		"/Users/tehdb/Projects/SCANEM/server/utils/test.coffee",
+		"/Users/tehdb/Projects/SCANEM/server/utils/winston.coffee"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"*.sass",
+			"*.ls",
+			"",
+			"*.sass",
+			"",
+			"*.coffee",
+			"*.sass",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"c.$.vm.item",
+			"c.$.vm.fields",
+			" c.$.vm.fields",
+			"res",
+			"attrVal",
+			"populate",
+			"currency",
+			"c.menu",
+			"logged",
+			"can",
+			"AuthSrvc",
+			", ",
+			"app.",
+			"app",
+			"thLoginBar",
+			"+transition",
+			"+transform",
+			", ",
+			"github",
+			"properties",
+			"thmError",
+			"HttpError",
+			"Internal Server Error",
+			"\"Internal Server Error\"",
+			"placeholder=",
+			"placeholder=\"\"",
+			"placeholder=''",
+			"-50%",
+			"md-tooltip",
+			";",
+			"required",
+			"flex=\"50\"",
+			"flex=\"33\"",
+			"mongoose",
+			"keywo",
+			"60",
+			"			{",
+			"th-uplect-media",
+			"blur",
+			"th-uplect-media",
+			"removeConfirmShow",
+			"showDeleteConfirm",
+			"th-confirm",
+			"confirm",
+			"label",
+			"1.3",
+			"0.3",
+			"isPreviewImgReady",
+			"add",
+			".fromTo",
+			"vm.isPreviewInfoActive",
+			"c.$.vm.isPreviewImgReady",
+			"previewShowProps",
+			"isPreviewInfoActive",
+			"className",
+			"element",
+			"-100%",
+			"previewHideProps",
+			"togglePreItemPreview",
+			"userAllowed",
+			"can",
+			"currentItem",
+			"icon-button",
+			"blurSrv",
+			"html2canvas",
+			"options.type",
+			"\"view\"",
+			"scroll",
+			"1",
+			"disableScroll",
+			"scrolltop",
+			"disableScroll",
+			"c.e",
+			"toggleScroll",
+			"thScroll",
+			"on(",
+			"off",
+			"window",
+			" // ",
+			"scrollActive",
+			"c._.scrollTopPrev",
+			"selected-title",
+			"+transform",
+			"+transfomr",
+			"transform",
+			"console.log",
+			"progress-layer",
+			"$events.failure",
+			"media:upload:images:failure",
+			"upload-drop",
+			";",
+			"angular",
+			"TargetIndex",
+			"targetIndex",
+			"getDraggedIndex",
+			"targetIndex",
+			"base",
+			"ApiSrvc.bases[$.base]",
+			"store.cats",
+			"el_capitan_sidebar_blue_folders",
+			"$fields",
+			"imgspath",
+			"pathfull",
+			"pathname",
+			"rgb(255,255,255)",
+			"rgba(255,255,255,0.54)",
+			"model",
+			"async",
+			"id",
+			"Id",
+			"id",
+			"vm.status",
+			"switchToInfoView",
+			"item",
+			"ApiSrvc.convert",
+			"fields",
+			"$fields",
+			"file.",
+			"files",
+			"keywords",
+			"item",
+			"console.log \"++++++",
+			"auth",
+			"redis",
+			"expat",
+			"expireat",
+			"events",
+			"data"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 104.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 126.0
+	},
+	"pinned_build_system": "",
+	"project": "p.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"request.coff",
+				"server/utils/request.coffee"
+			],
+			[
+				"app-rout",
+				"client/app-router.coffee"
+			],
+			[
+				"prod-view.coff",
+				"client/store/prods/prod-view.ctrl.coffee"
+			],
+			[
+				"api.srv",
+				"client/common/services/api.srvc.coffee"
+			],
+			[
+				"store",
+				"client/store/store.srvc.coffee"
+			],
+			[
+				"login-bar.sr",
+				"client/membership/login-bar.srv.coffee"
+			],
+			[
+				"login",
+				"client/membership/login-bar.drt.coffee"
+			],
+			[
+				"login-bar.s",
+				"client/membership/login-bar.srv.coffee"
+			],
+			[
+				"blur.sr",
+				"client/common/services/blur.srvc.coffee"
+			],
+			[
+				"store.src",
+				"client/store/store.srvc.coffee"
+			],
+			[
+				"category.md",
+				"server/store/category.mdl.coffee"
+			],
+			[
+				"produ.mdl",
+				"server/store/product.mdl.coffee"
+			],
+			[
+				"request.co",
+				"server/utils/request.coffee"
+			],
+			[
+				"prod-edit.jade",
+				"client/store/prods/prod-edit.tpl.jade"
+			],
+			[
+				"prod-edit",
+				"client/store/prods/prod-edit.ctrl.coffee"
+			],
+			[
+				"readme",
+				"README.md"
+			],
+			[
+				"en-gb",
+				"server/i18n/langs/client/en-GB.json"
+			],
+			[
+				"icon.drt",
+				"client/layout/icon.drt.coffee"
+			],
+			[
+				"login-bar",
+				"client/membership/login-bar.srv.coffee"
+			],
+			[
+				"prods-view",
+				"client/store/prods/prods-view.ctrl.coffee"
+			],
+			[
+				"prod",
+				"server/store/product.mdl.coffee"
+			],
+			[
+				"cats-",
+				"client/store/prods/cats-list.tpl.jade"
+			],
+			[
+				"cats-view.",
+				"client/store/cats/cat-view.tpl.jade"
+			],
+			[
+				"cat-view.jade",
+				"client/store/cats/cat-view.tpl.jade"
+			],
+			[
+				"cat-view",
+				"client/store/cats/cat-view.ctrl.coffee"
+			],
+			[
+				"apiser",
+				"client/common/services/api.srvc.coffee"
+			],
+			[
+				"app-rou",
+				"client/app-router.coffee"
+			],
+			[
+				"prod-vew",
+				"client/store/prods/prods-view.sass"
+			],
+			[
+				"header.coff",
+				"client/layout/header.ctrl.coffee"
+			],
+			[
+				"header.cof",
+				"client/layout/header.ctrl.coffee"
+			],
+			[
+				"build.co",
+				"gulp_tasks/build.coffee"
+			],
+			[
+				"login-bar.jade",
+				"client/membership/login-bar.inc.jade"
+			],
+			[
+				"header.jade",
+				"client/layout/header.inc.jade"
+			],
+			[
+				"logi-bar.co",
+				"client/membership/login-bar.drt.coffee"
+			],
+			[
+				"login-bar.ja",
+				"client/membership/login-bar.inc.jade"
+			],
+			[
+				"auht.sr",
+				"client/membership/auth.srvc.coffee"
+			],
+			[
+				"app.",
+				"client/app.coffee"
+			],
+			[
+				"prod-edi",
+				"client/store/prods/prod-edit.ctrl.coffee"
+			],
+			[
+				"bower.",
+				"bower.json"
+			],
+			[
+				".srv.coff",
+				"client/membership/auth.srvc.coffee"
+			],
+			[
+				"colors",
+				"client/common/styles/colors.sass"
+			],
+			[
+				"form",
+				"client/common/styles/forms.sass"
+			],
+			[
+				"header.in",
+				"client/layout/header.inc.jade"
+			],
+			[
+				"bower.json",
+				"bower.json"
+			],
+			[
+				"eng-b",
+				"server/i18n/langs/client/en-GB.json"
+			],
+			[
+				"app.coff",
+				"client/app.coffee"
+			],
+			[
+				"price",
+				"server/store/attrs/price.schm.coffee"
+			],
+			[
+				"product",
+				"server/store/product.mdl.coffee"
+			],
+			[
+				"media-v",
+				"client/media/media-view.tpl.jade"
+			],
+			[
+				"prods-view.sass",
+				"client/store/prods/prods-view.sass"
+			],
+			[
+				"prod.spec",
+				"server/store/product.mdl.spec.coffee"
+			],
+			[
+				"htt",
+				"server/errors/HttpError.coffee"
+			],
+			[
+				"store.sr",
+				"client/store/store.srvc.coffee"
+			],
+			[
+				"app.co",
+				"client/app.coffee"
+			],
+			[
+				"htt.",
+				"server/errors/HttpError.coffee"
+			],
+			[
+				"request.",
+				"server/utils/request.coffee"
+			],
+			[
+				"stor.rt",
+				"server/store/store.rt.coffee"
+			],
+			[
+				"api.sr",
+				"client/common/services/api.srvc.coffee"
+			],
+			[
+				"blur",
+				"client/common/services/blur.srvc.coffee"
+			],
+			[
+				"produ",
+				"server/store/product.mdl.coffee"
+			],
+			[
+				"scrol",
+				"client/common/directives/scrolltop.drt.coffee"
+			],
+			[
+				"rise",
+				"client/common/animations/rise-up.ani.coffee"
+			],
+			[
+				"keyword.jade",
+				"client/common/directives/keywords.tpl.jade"
+			],
+			[
+				"keyowrd.dr",
+				"client/common/directives/keywords.drt.coffee"
+			],
+			[
+				"unique",
+				"client/common/directives/unique.drt.coffee"
+			],
+			[
+				"dialogs",
+				"client/common/styles/dialogs.sass"
+			],
+			[
+				"home.",
+				"client/home/home.ctrl.coffee"
+			],
+			[
+				"home",
+				"client/home/home.tpl.jade"
+			],
+			[
+				"confir",
+				"client/common/directives/confirm.sass"
+			],
+			[
+				"confirm.d",
+				"client/common/directives/confirm.tpl.jade"
+			],
+			[
+				"confirm.sass",
+				"client/common/directives/confirm.sass"
+			],
+			[
+				"uplec.coffee",
+				"client/media/uplect.drt.coffee"
+			],
+			[
+				"mixins",
+				"client/common/styles/mixins.sass"
+			],
+			[
+				"preview-modal",
+				"client/media/preview-modal.ctrl.coffee"
+			],
+			[
+				"preview-moda",
+				"client/media/preview-modal.sass"
+			],
+			[
+				"preview",
+				"client/media/preview-modal.tpl.jade"
+			],
+			[
+				"image.mdl",
+				"server/media/image.mdl.coffee"
+			],
+			[
+				"uplect.coff",
+				"client/media/uplect.drt.coffee"
+			],
+			[
+				"prod-edis",
+				"client/store/prods/prod-edit.sass"
+			],
+			[
+				"uplect.jade",
+				"client/media/uplect.tpl.jade"
+			],
+			[
+				"uplec",
+				"client/media/uplect.drt.coffee"
+			],
+			[
+				"uplect.sass",
+				"client/media/uplect.sass"
+			],
+			[
+				"dialog",
+				"client/common/styles/dialogs.sass"
+			],
+			[
+				"en-",
+				"server/i18n/langs/client/en-GB.json"
+			],
+			[
+				"prod-edit.",
+				"client/store/prods/prod-edit.ctrl.coffee"
+			],
+			[
+				"media.io",
+				"server/media/media.io.coffee"
+			],
+			[
+				"uplec.coff",
+				"client/media/uplect.drt.coffee"
+			],
+			[
+				"forms",
+				"client/common/styles/forms.sass"
+			],
+			[
+				"prod-edit.sass",
+				"client/store/prods/prod-edit.sass"
+			],
+			[
+				"edit",
+				"client/store/prods/prod-edit.tpl.jade"
+			],
+			[
+				"bower",
+				"bower.json"
+			],
+			[
+				"package.",
+				"package.json"
+			],
+			[
+				"uplec.sas",
+				"client/media/uplect.sass"
+			],
+			[
+				"drag",
+				"client/common/directives/dragndrop-sort.drt.coffee"
+			],
+			[
+				"mixi",
+				"client/common/styles/mixins.sass"
+			],
+			[
+				"unisleec",
+				"client/common/directives/uniselect.sass"
+			],
+			[
+				"unisele.jade",
+				"client/common/directives/uniselect.tpl.jade"
+			],
+			[
+				"home.jade",
+				"client/home/home.tpl.jade"
+			],
+			[
+				"preive.jade",
+				"client/media/preview-modal.tpl.jade"
+			],
+			[
+				"uploader.jade",
+				"client/media/uploader.tpl.jade"
+			],
+			[
+				"uploader.coff",
+				"client/media/uploader.ctrl.coffee"
+			],
+			[
+				"response",
+				"server/utils/response.coffee"
+			],
+			[
+				"request.c",
+				"server/utils/request.coffee"
+			],
+			[
+				"image.ctrl",
+				"server/media/images.ctrl.coffee"
+			],
+			[
+				"image.mld",
+				"server/media/image.mdl.coffee"
+			],
+			[
+				"store.rt",
+				"server/store/store.rt.coffee"
+			],
+			[
+				"member",
+				"server/membership/membership.rt.coffee"
+			],
+			[
+				"conf",
+				"server/utils/config.coffee"
+			],
+			[
+				"media",
+				"server/media/media.rt.coffee"
+			],
+			[
+				"forms.sa",
+				"client/common/styles/forms.sass"
+			],
+			[
+				"uploader",
+				"client/media/uploader.ctrl.coffee"
+			],
+			[
+				"bower.js",
+				"bower.json"
+			],
+			[
+				"async.js",
+				"bower_components/async/.bower.json"
+			],
+			[
+				"gulpfile",
+				"gulpfile.coffee"
+			],
+			[
+				"apisr",
+				"client/common/services/api.srvc.coffee"
+			],
+			[
+				"keywords.jade",
+				"client/common/directives/keywords.tpl.jade"
+			],
+			[
+				"keywords.drt",
+				"client/common/directives/keywords.drt.coffee"
+			],
+			[
+				"keyword.mld",
+				"server/search/keyword.mdl.coffee"
+			],
+			[
+				"reque",
+				"server/utils/request.coffee"
+			],
+			[
+				"media.rt",
+				"server/media/media.rt.coffee"
+			],
+			[
+				"styles",
+				"client/styles.sass"
+			],
+			[
+				"media-view",
+				"client/media/media-view.sass"
+			],
+			[
+				"uploa",
+				"client/media/uploader.sass"
+			],
+			[
+				"uploade.jade",
+				"client/media/uploader.tpl.jade"
+			],
+			[
+				"icon.dfr",
+				"client/layout/icon.drt.coffee"
+			],
+			[
+				"http",
+				"server/errors/HttpError.coffee"
+			],
+			[
+				"uploader.",
+				"client/media/uploader.tpl.jade"
+			],
+			[
+				"media-vie",
+				"client/media/media-view.tpl.jade"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Projects/FL24-img-gen/p.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 278.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
