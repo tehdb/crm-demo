@@ -2,9 +2,10 @@
 
 ## Prerequisites
 
+- mongo
 - node + npm
-- bower
-- node-dev
+- bower (http://bower.io/)
+- node-dev (https://github.com/fgnass/node-dev)
 
 
 ## Installation
